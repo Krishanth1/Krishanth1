@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Krishanth1
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning Hadoop Architecture
+- 💞️ I’m looking to collaborate on any Big Data Projects
